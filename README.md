@@ -3,7 +3,7 @@ it‘s some program example that i have coded.
 
 
 1、争吵
-
+Quarrel.java
 
 题目描述：
 
@@ -130,7 +130,7 @@ a
  
 
  3、课程冲突
-
+CourseConflict.java
 
 
 题目描述：
