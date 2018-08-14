@@ -1,8 +1,6 @@
 # ProgamExample
 it‘s some program example that i have coded.
-作者：和风细雨
-链接：https://www.nowcoder.com/discuss/67684?type=2&order=3&pos=13&page=0
-来源：牛客网
+
 
 1、争吵
 
